@@ -1,36 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Imaginic API - Image Proxy Service</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      max-width: 720px;
-      margin: auto;
-      padding: 2rem;
-      line-height: 1.6;
-    }
-    code {
-      background: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #f9f9f9;
-      padding: 1rem;
-      border-radius: 8px;
-      overflow-x: auto;
-    }
-    footer {
-      margin-top: 3rem;
-      font-size: 0.9rem;
-    }
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
-  </style>
+
 </head>
 <body>
   <h1>🧠 Imaginic API</h1>
