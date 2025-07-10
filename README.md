@@ -32,7 +32,7 @@ curl -X POST https://imaginic.netlify.app/api/v2 \
 }
   </pre>
 
-  <h2>🧪 <a href="/test">Try the Test Page</a></h2>
+  <h2>🧪 <a href="https://imaginic.netlify.app/test">Try the Test Page</a></h2>
 
   <footer>
     <p>Created by <strong>Rantu Dev</strong></p>
